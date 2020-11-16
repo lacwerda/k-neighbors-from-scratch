@@ -28,4 +28,4 @@ x2,1  x2,2  x2,3 ... x2,D
 xNtest,1  xNtest,2  xNtest,3  ... xNtest,D
 ```
 
-The complete code file is included in `k-neighbors.py`.
+The complete code file is included in **k-neighbors.py**.
