@@ -1,5 +1,5 @@
 # K-Neighbors Classifier from Scratch
-Implementation of the K-Neighbors Algorithm to classify mushrooms
+Implementation of the K-Neighbors Algorithm to classify mushrooms.
 
 For the development of this specific classifier the [UCI Mushroom Dataset](https://archive.ics.uci.edu/ml/datasets/Mushroom) was used. The dataset includes 22 different parameters to describe each mushroom.
 
